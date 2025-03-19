@@ -64,7 +64,7 @@ sections:
     design:
       view: citation
       background:
-        color: black
+        color: light grey
   # - block: collection
   #   id: talks
   #   content:
