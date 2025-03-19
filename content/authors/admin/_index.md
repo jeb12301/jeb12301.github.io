@@ -183,6 +183,4 @@ profiles:
 
 ## About Me
 
-I'm a fourth year student currently studying physics and mathematics at the University of Washington. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have recently also developed an interested for biophysics.
-
-See my cv [here](uploads/resume.pdf).
+I'm a fourth year student currently studying physics and mathematics at the University of Washington. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have recently also developed an interested for biophysics. See a complete cv [here](uploads/resume.pdf).
