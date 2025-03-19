@@ -2,6 +2,9 @@
 title: "A theory of quasiballistic spin transport"
 authors:
 - admin
+- Hyunsoo Ha
+- Wenwei Ho
+- Vir Bulchandani
 date: "2025-03-19T00:00:00Z"
 doi: ""
 
