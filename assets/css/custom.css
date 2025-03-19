@@ -1,3 +1,11 @@
-.section:first-child.resume-biography-3 {
-    margin-top: 5px;
+/* Remove padding from the profile pictures */
+.resume-biography #profile {
+    padding: 0 !important;
+  }
+  
+  /* For screens wider than 768px, override the top margin */
+  @media (min-width: 768px) {
+    .md\:mt-12 {
+      margin-top: -1rem !important;
+    }
   }
