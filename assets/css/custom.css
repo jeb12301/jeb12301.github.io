@@ -24,3 +24,15 @@
       margin-top: 0 !important;
     }
   }
+
+  @media (max-width: 768px) {
+    .gap-12 {
+      gap: 0rem;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .mt-16 {
+      margin-top: 0;
+    }
+  }
