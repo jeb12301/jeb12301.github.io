@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Undergraduate in Physics and Mathematics
+role: Fourth Year Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -141,13 +141,13 @@ profiles:
 #         percent: 80
 #         icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 75
+#   - name: Portuguese
+#     percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -183,4 +183,6 @@ languages:
 
 ## About Me
 
-I'm a fourth year student currently studying physics and mathematics at the University of Washington. is a professor of artificial intelligence at the Stanford AI Lab. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have recently also developed an interested for biophysics.
+I'm a fourth year student currently studying physics and mathematics at the University of Washington. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have recently also developed an interested for biophysics.
+
+See my cv [here](uploads/resume.pdf).
