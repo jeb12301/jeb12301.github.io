@@ -17,3 +17,10 @@
   .pt-2 {
     padding-top: 0rem;
   }
+
+
+  @media (min-width: 640px) {
+    .sm\:mt-20 {
+      margin-top: 0 !important;
+    }
+  }
