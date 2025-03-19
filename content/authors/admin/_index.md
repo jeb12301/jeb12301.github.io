@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Fourth Year Student
+role: Undergraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
