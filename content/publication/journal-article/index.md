@@ -2,7 +2,9 @@
 title: "An example journal article"
 authors:
 - admin
-- Robert Ford
+- Hyunsoo Ha
+- Wenwei Ho
+- Vir Bulchandani
 author_notes:
 - "Equal contribution"
 - "Equal contribution"

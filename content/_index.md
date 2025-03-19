@@ -65,6 +65,7 @@ sections:
       view: citation
       background:
         color: "#EFEFEF"
+    classes: "recent-publications"
   # - block: collection
   #   id: talks
   #   content:

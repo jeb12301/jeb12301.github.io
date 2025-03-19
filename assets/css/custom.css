@@ -38,8 +38,9 @@
   }
 
   @media (prefers-color-scheme: dark) {
-    .your-block-class {
-      background-color: var(--default-dark-background);
+    .recent-publications {
+      display: none;
     }
   }
+  
   

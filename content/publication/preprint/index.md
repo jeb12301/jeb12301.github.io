@@ -1,12 +1,12 @@
 ---
-title: "An example preprint / working paper"
+title: "A theory of quasiballistic spin transport"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+date: "2025-03-19T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2025-03-19T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,13 +17,13 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] observed "quasiballistic spin transport" – long-lived and transiently ballistic modes of the magnetization density – in numerical simulations of infinite-temperature XXZ chains with power-law exchange interactions. We develop an analytical theory of such quasiballistic spin transport. Previous work found that this effect was maximized along a specific locus in the space of model parameters, which interpolated smoothly between the integrable Haldane-Shastry and XX models and whose shape was estimated from numerics. We obtain an analytical estimate for the lifetime of the spin current and show that it has a unique maximum along a different locus, which interpolates more gradually between the two integrable points. We further rule out the existence of a conserved two-body operator that protects ballistic spin transport away from these integrable points by proving that a corresponding functional equation has no solutions. We discuss connections between our approach and an integrability-transport conjecture for spin.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags:
-- Large Language Models
+#tags:
+#- Large Language Models
 
 featured: true
 
@@ -41,10 +41,10 @@ url_video: '#'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+#   focal_point: ""
+#   preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
