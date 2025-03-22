@@ -32,8 +32,8 @@ featured: true
 
 links:
 #- name: Custom Link
-#  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+  url: https://arxiv.org/abs/2503.15756
+#url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -64,11 +64,14 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
+<!-- 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
+
+
+The correlator terms $<J(t)J(0)>$ from the Drude weight give an accurate diagnosis of the ballistici transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by calculating a quantity with more classical motivations.
