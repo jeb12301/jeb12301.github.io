@@ -5,11 +5,11 @@ authors:
 - Hyunsoo Ha
 - Wenwei Ho
 - Vir Bulchandani
-date: "2025-03-19T00:00:00Z"
+date: "2025-03-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-03-19T00:00:00Z"
+publishDate: "2025-03-20T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -32,8 +32,8 @@ featured: true
 
 links:
 #- name: Custom Link
-  url: https://arxiv.org/abs/2503.15756
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
+#  url: http://example.org
+url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -54,18 +54,15 @@ links:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-
-#projects:
-#- internal-project
+projects:
+- internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-
-#slides: example
-
+slides: example
 ---
 
 This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
