@@ -74,4 +74,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 
-The correlator terms {{< math >}}$\langle J(t)J(0) \rangle${{< /math >}} from the Drude weight give an accurate diagnosis of the ballistic transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by minimizing the density of the rate of change of current, {{< math >}}$\dot{\hat{J}}${{< /math >}}.
+The correlator terms $\langle J(t)J(0) \rangle$ from the Drude weight give an accurate diagnosis of the ballistic transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by minimizing the density of the rate of change of current, $\dot{\hat{J}}$.
