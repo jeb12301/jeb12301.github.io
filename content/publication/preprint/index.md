@@ -31,9 +31,9 @@ abstract: A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] o
 featured: true
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-url_pdf: https://arxiv.org/abs/2503.15756
+- name: arXiv
+  url: https://arxiv.org/abs/2503.15756
+# url_pdf: https://arxiv.org/abs/2503.15756
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'
 # url_poster: '#'
@@ -74,4 +74,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
 
 
-The correlator terms $<J(t)J(0)>$ from the Drude weight give an accurate diagnosis of the ballistic transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by calculating a quantity with more classical motivations.
+The correlator terms {{< math >}}$<J(t)J(0)>${{< /math >}} from the Drude weight give an accurate diagnosis of the ballistic transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by minimizing the density of the rate of change of current, {{< math >}}$\dot{\hat{J}}${{< /math >}}.
