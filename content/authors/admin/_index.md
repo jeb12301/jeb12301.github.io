@@ -44,7 +44,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=icJE6ZsAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-2583-9851 
 
 # interests:
 #   - Artificial Intelligence

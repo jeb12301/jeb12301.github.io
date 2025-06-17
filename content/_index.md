@@ -53,6 +53,7 @@ sections:
   #   design:
   #     view: article-grid
   #     columns: 2
+
   - block: collection
     content:
       title: Recent Publications
@@ -66,6 +67,7 @@ sections:
       background:
         color: "#EFEFEF"
     classes: "recent-publications"
+
   # - block: collection
   #   id: talks
   #   content:
