@@ -183,8 +183,12 @@ profiles:
 
 ## Biography
 
-I'm a fourth year student currently studying physics and mathematics at the University of Washington. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have developed a recent interest in using physics to understand complex systems, including the brain and neural networks. See a complete cv [here](uploads/resume.pdf).
+I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete cv [here](uploads/resume.pdf).
 
+
+<!--
+fourth year student currently studying physics and mathematics at the University of Washington. I am primarily interested in the intersection between complexity science and computation, especially in the fields of quantum information and condensed matter. I have developed a recent interest in using physics to understand complex systems, including the brain and neural networks. See a complete cv [here](uploads/resume.pdf).
+-->
 
 I currently run KDE Fedora on a ThinkPad T14 Gen 3 laptop (AMD)
 <!--
