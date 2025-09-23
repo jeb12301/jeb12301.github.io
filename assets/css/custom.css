@@ -37,10 +37,11 @@
     }
   }
 
-  @media (prefers-color-scheme: dark) {
-    .recent-publications {
-      display: none;
-    }
+  /* Dark via class-based toggle (Hugo Blox/Wowchemy uses this) */
+  html.dark #recent-publications .home-section-bg,
+  html.dark #recent-publications.home-section-bg {
+    background-color: #262626 !important;
+    color: #fff;
   }
-  
-  
+
+

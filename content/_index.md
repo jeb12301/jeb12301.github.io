@@ -55,18 +55,30 @@ sections:
   #     columns: 2
 
   - block: collection
+    id: recent-publications
+    class: recent-publications        # <-- singular
     content:
       title: Recent Publications
       text: ""
       filters:
-        folders:
-          - publication
+        folders: [publication]
         exclude_featured: false
     design:
       view: citation
       background:
         color: "#EFEFEF"
-    classes: "recent-publications"
+
+  - block: collection
+    content:
+      title: Class Projects
+      text: ""
+      filters:
+        folders:
+          - project
+        exclude_featured: false
+    design:
+      view: citation
+    classes: "recent-projects"
 
   # - block: collection
   #   id: talks
