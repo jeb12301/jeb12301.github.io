@@ -41,10 +41,10 @@
   
     
   
-  <meta name="description" content="A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] observed &#34;quasiballistic spin transport&#34; – long-lived and transiently ballistic modes of the magnetization density – in numerical simulations of infinite-temperature XXZ chains with power-law exchange interactions. We develop an analytical theory of such quasiballistic spin transport. Previous work found that this effect was maximized along a specific locus in the space of model parameters, which interpolated smoothly between the integrable Haldane-Shastry and XX models and whose shape was estimated from numerics. We obtain an analytical estimate for the lifetime of the spin current and show that it has a unique maximum along a different locus, which interpolates more gradually between the two integrable points. We further rule out the existence of a conserved two-body operator that protects ballistic spin transport away from these integrable points by proving that a corresponding functional equation has no solutions. We discuss connections between our approach and an integrability-transport conjecture for spin." />
+  <meta name="description" content="Study of no-go theorems in ψ-ontological models." />
 
   
-  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/publication/preprint/" />
+  <link rel="alternate" hreflang="en-us" href="http://localhost:1313/static/uploads/psi_ontology.pdf" />
 
   
   
@@ -164,7 +164,7 @@
   <link rel="icon" type="image/png" href="/media/icon_hu13984971378889777523.png" />
   <link rel="apple-touch-icon" type="image/png" href="/media/icon_hu9815212607647094571.png" />
 
-  <link rel="canonical" href="http://localhost:1313/publication/preprint/" />
+  <link rel="canonical" href="http://localhost:1313/static/uploads/psi_ontology.pdf" />
 
   
   
@@ -175,6 +175,7 @@
   
   
     
+    
   
   
 
@@ -183,24 +184,24 @@
     
     
   
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content="summary" />
   
     <meta property="twitter:site" content="@GetResearchDev" />
     <meta property="twitter:creator" content="@GetResearchDev" />
   
   <meta property="og:site_name" content="Jeb Song" />
-  <meta property="og:url" content="http://localhost:1313/publication/preprint/" />
-  <meta property="og:title" content="A theory of quasiballistic spin transport | Jeb Song" />
-  <meta property="og:description" content="A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] observed &#34;quasiballistic spin transport&#34; – long-lived and transiently ballistic modes of the magnetization density – in numerical simulations of infinite-temperature XXZ chains with power-law exchange interactions. We develop an analytical theory of such quasiballistic spin transport. Previous work found that this effect was maximized along a specific locus in the space of model parameters, which interpolated smoothly between the integrable Haldane-Shastry and XX models and whose shape was estimated from numerics. We obtain an analytical estimate for the lifetime of the spin current and show that it has a unique maximum along a different locus, which interpolates more gradually between the two integrable points. We further rule out the existence of a conserved two-body operator that protects ballistic spin transport away from these integrable points by proving that a corresponding functional equation has no solutions. We discuss connections between our approach and an integrability-transport conjecture for spin." /><meta property="og:image" content="http://localhost:1313/publication/preprint/featured.jpg" />
-    <meta property="twitter:image" content="http://localhost:1313/publication/preprint/featured.jpg" /><meta property="og:locale" content="en-us" />
+  <meta property="og:url" content="http://localhost:1313/static/uploads/psi_ontology.pdf" />
+  <meta property="og:title" content="Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models | Jeb Song" />
+  <meta property="og:description" content="Study of no-go theorems in ψ-ontological models." /><meta property="og:image" content="http://localhost:1313/media/icon_hu11041880527494694290.png" />
+    <meta property="twitter:image" content="http://localhost:1313/media/icon_hu11041880527494694290.png" /><meta property="og:locale" content="en-us" />
   
     
       <meta
         property="article:published_time"
-        content="2025-03-20T00:00:00&#43;00:00"
+        content="2022-05-06T00:00:00&#43;00:00"
       />
     
-    <meta property="article:modified_time" content="2025-03-20T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2022-05-06T00:00:00&#43;00:00">
   
 
   
@@ -222,16 +223,12 @@
   "@type": "Article",
   "mainEntityOfPage": {
     "@type": "WebPage",
-    "@id": "http://localhost:1313/publication/preprint/"
+    "@id": "http://localhost:1313/static/uploads/psi_ontology.pdf"
   },
-  "headline": "A theory of quasiballistic spin transport",
+  "headline": "Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models",
   
-  "image": [
-    "http://localhost:1313/publication/preprint/featured.jpg"
-  ],
-  
-  "datePublished": "2025-03-20T00:00:00Z",
-  "dateModified": "2025-03-20T00:00:00Z",
+  "datePublished": "2022-05-06T00:00:00Z",
+  "dateModified": "2022-05-06T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -246,7 +243,7 @@
       "url": "http://localhost:1313/media/icon_hu828184393635838741.png"
     }
   },
-  "description": "A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] observed \"quasiballistic spin transport\" – long-lived and transiently ballistic modes of the magnetization density – in numerical simulations of infinite-temperature XXZ chains with power-law exchange interactions. We develop an analytical theory of such quasiballistic spin transport. Previous work found that this effect was maximized along a specific locus in the space of model parameters, which interpolated smoothly between the integrable Haldane-Shastry and XX models and whose shape was estimated from numerics. We obtain an analytical estimate for the lifetime of the spin current and show that it has a unique maximum along a different locus, which interpolates more gradually between the two integrable points. We further rule out the existence of a conserved two-body operator that protects ballistic spin transport away from these integrable points by proving that a corresponding functional equation has no solutions. We discuss connections between our approach and an integrability-transport conjecture for spin."
+  "description": "Study of no-go theorems in ψ-ontological models."
 }
 </script>
 
@@ -255,7 +252,7 @@
   
 
 
-  <title>A theory of quasiballistic spin transport | Jeb Song</title>
+  <title>Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models | Jeb Song</title>
 
   
   
@@ -747,11 +744,6 @@
 
 
 
-  
-    
-    
-  
-
 
 <div class="mx-auto flex max-w-screen-xl">
   
@@ -788,7 +780,7 @@
               
             </li></ul>
       </div></li>
-        <li class="open"><a
+        <li class=""><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/publication/"
@@ -798,14 +790,13 @@
             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
         </span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
+        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
-      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/publication/preprint/"
     
   >A theory of quasiballistic spin transport
     </a>
-  
               
             </li></ul>
       </div></li>
@@ -903,7 +894,7 @@
               
             </li></ul>
       </div></li>
-        <li class=""><a
+        <li class="open"><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
     href="/project/"
@@ -913,18 +904,19 @@
             <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" class="h-[18px] min-w-[18px] rounded-sm p-0.5 hover:bg-gray-800/5 dark:hover:bg-gray-100/5"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" class="origin-center transition-transform rtl:-rotate-180"></path></svg>
         </span>
     </a><div class="ltr:pr-0 overflow-hidden">
-        <ul class="hb-sidebar-list"><li class="flex flex-col "><a
+        <ul class="hb-sidebar-list"><li class="flex flex-col open"><a
     class="hb-sidebar-custom-link
-      text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/psi-ontology/"
+      sidebar-active-item bg-primary-100 font-semibold text-primary-800 dark:bg-primary-300 dark:text-primary-900"
+    href="/static/uploads/psi_ontology.pdf"
     
   >Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models
     </a>
+  
               
             </li><li class="flex flex-col "><a
     class="hb-sidebar-custom-link
       text-gray-500 hover:bg-gray-100 hover:text-gray-900 dark:text-gray-300 dark:hover:bg-primary-800 dark:hover:text-gray-50"
-    href="/project/1d-mbqc-qudits/"
+    href="/uploads/1d_mbqc_qudits.pdf"
     
   >Universal Resource States for 1D Measurement-Based Quantum Computation
     </a>
@@ -954,10 +946,7 @@
   <div class="hb-scrollbar text-sm [hyphens:auto] sticky top-16 overflow-y-auto pr-4 pt-6 max-h-[calc(100vh-var(--navbar-height)-env(safe-area-inset-bottom))] -mr-4 rtl:-ml-4">
 
   
-  
-    
-    
-  
+  __hdeferred/26d38cbb9a78aeea_12__d=
 
 
 
@@ -983,51 +972,16 @@
 
       
 
-      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">A theory of quasiballistic spin transport</h1>
+      <h1 class="mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models</h1>
 
       <div class="mt-4 mb-16">
-      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">Mar 20, 2025</span><span class="mx-1">·</span>
-        
-          
-          
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            
-            
-            <img src="/author/jeb-song/avatar_hu13444944021959342413.webp" alt="Jeb Song" class="inline-block h-4 w-4 rounded-full border border-current" loading="lazy" />
-            
-            <div >Jeb Song</div>
-          </div>
-          
-        
-          
-          <span class="mr-1">,</span>
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            
-            <div >Hyunsoo Ha</div>
-          </div>
-          
-        
-          
-          <span class="mr-1">,</span>
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            
-            <div >Wenwei Ho</div>
-          </div>
-          
-        
-          
-          <span class="mr-1">,</span>
-          <div class="group inline-flex items-center text-current gap-x-1.5 mx-1">
-            
-            <div >Vir Bulchandani</div>
-          </div>
-          
+      <div class="text-gray-500 dark:text-gray-300 text-sm flex items-center flex-wrap gap-y-2"><span class="mr-1">May 6, 2022</span>
         
 
         
         <span class="mx-1">·</span>
         <span class="mx-1">
-          1 min read
+          0 min read
         </span>
         
         </div>
@@ -1038,58 +992,6 @@
 
 
 
-<div class="">
-  
-  
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-  
-    
-  
-
-
-
-
-  
-
-
-
-
-
-  
-  
-  
-    
-  
-  
-  
-  
-  
-    
-  
-  <a class="hb-attachment-link hb-attachment-large" href="https://arxiv.org/abs/2503.15756" target="_blank" rel="noopener">
-    <svg style="height: 1em" class='inline-block' xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M13.19 8.688a4.5 4.5 0 0 1 1.242 7.244l-4.5 4.5a4.5 4.5 0 0 1-6.364-6.364l1.757-1.757m13.35-.622l1.757-1.757a4.5 4.5 0 0 0-6.364-6.364l-4.5 4.5a4.5 4.5 0 0 0 1.242 7.244"/></svg>
-    arXiv</a>
-
-
-</div>
-
 
         </div>
       </div>
@@ -1099,85 +1001,18 @@
       
       
       
-      
-      
 
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      <div class="article-header article-container featured-image-wrapper mt-4 mb-16" style="max-width: 720px; max-height: 480px;">
-        <div style="position: relative">
-          <img src="/publication/preprint/featured_hu2653949026309519201.webp" width="720" height="480" alt="" class="featured-image">
-          
-        </div>
-      </div>
-      
-
-      
-      
-        <div class="max-w-prose grid grid-cols-1 md:grid-cols-[200px_auto] gap-4 my-6">
-
-        
-          <div class="font-bold text-2xl">Abstract</div>
-          <div>A recent work [Mierzejewski et al., Phys. Rev. B 107, 045134 (2023)] observed &ldquo;quasiballistic spin transport&rdquo; – long-lived and transiently ballistic modes of the magnetization density – in numerical simulations of infinite-temperature XXZ chains with power-law exchange interactions. We develop an analytical theory of such quasiballistic spin transport. Previous work found that this effect was maximized along a specific locus in the space of model parameters, which interpolated smoothly between the integrable Haldane-Shastry and XX models and whose shape was estimated from numerics. We obtain an analytical estimate for the lifetime of the spin current and show that it has a unique maximum along a different locus, which interpolates more gradually between the two integrable points. We further rule out the existence of a conserved two-body operator that protects ballistic spin transport away from these integrable points by proving that a corresponding functional equation has no solutions. We discuss connections between our approach and an integrability-transport conjecture for spin.</div>
-        
-
-        
-        
-          <div class="font-bold text-2xl">Type</div>
-          <div>
-            <a href="/publication_types/article-journal/">
-            Journal article
-            </a>
-          </div>
-        
-
-        
-
-        
-
-        
-
-        
-
-      </div>
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        <!-- This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-
-
-
-
-
-  
-    
-  
-
-<div class="flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900">
-<span class="pr-3 pt-1 text-primary-600 dark:text-primary-300">
-  <svg height="24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z"/></svg>
-</span>
-  <span class="dark:text-neutral-300">Create your slides in Markdown - click the <em>Slides</em> button to check out the example.</span>
-</div>
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
-<p>The correlator terms $\langle J(t)J(0) \rangle$ from the Drude weight give an accurate diagnosis of the ballistic transport. However, this is very difficult to calculate in principle. We pursue a more tractable version by minimizing the density of the rate of change of current, $\dot{\hat{J}}$.</p>
-
+        
       </div>
 
       
-  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2025-03-20T00:00:00.000Z">
+  <time class="mt-12 mb-8 block text-xs text-gray-500 ltr:text-right rtl:text-left dark:text-gray-400" datetime="2022-05-06T00:00:00.000Z">
     <span>Last updated on</span>
-    Mar 20, 2025</time>
+    May 6, 2022</time>
 
       <div class="container mx-auto prose prose-slate lg:prose-xl dark:prose-invert mt-5">
         
@@ -1201,7 +1036,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint%2F&amp;text=A&#43;theory&#43;of&#43;quasiballistic&#43;spin&#43;transport"
+    href="https://twitter.com/intent/tweet?url=http%3A%2F%2Flocalhost%3A1313%2Fstatic%2Fuploads%2Fpsi_ontology.pdf&amp;text=Quantum&#43;Foundations%3A&#43;No-Go&#43;Theorems&#43;of&#43;%CF%88-Ontological&#43;Quantum&#43;Models"
     title="X"
     aria-label="X"
     id="share-link-x"
@@ -1219,7 +1054,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint%2F&amp;t=A&#43;theory&#43;of&#43;quasiballistic&#43;spin&#43;transport"
+    href="https://www.facebook.com/sharer.php?u=http%3A%2F%2Flocalhost%3A1313%2Fstatic%2Fuploads%2Fpsi_ontology.pdf&amp;t=Quantum&#43;Foundations%3A&#43;No-Go&#43;Theorems&#43;of&#43;%CF%88-Ontological&#43;Quantum&#43;Models"
     title="Facebook"
     aria-label="Facebook"
     id="share-link-facebook"
@@ -1239,7 +1074,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="mailto:?subject=A%20theory%20of%20quasiballistic%20spin%20transport&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint%2F"
+    href="mailto:?subject=Quantum%20Foundations%3A%20No-Go%20Theorems%20of%20%CF%88-Ontological%20Quantum%20Models&amp;body=http%3A%2F%2Flocalhost%3A1313%2Fstatic%2Fuploads%2Fpsi_ontology.pdf"
     title="Email"
     aria-label="Email"
     id="share-link-email"
@@ -1257,7 +1092,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint%2F&amp;title=A&#43;theory&#43;of&#43;quasiballistic&#43;spin&#43;transport"
+    href="https://www.linkedin.com/shareArticle?url=http%3A%2F%2Flocalhost%3A1313%2Fstatic%2Fuploads%2Fpsi_ontology.pdf&amp;title=Quantum&#43;Foundations%3A&#43;No-Go&#43;Theorems&#43;of&#43;%CF%88-Ontological&#43;Quantum&#43;Models"
     title="LinkedIn"
     aria-label="LinkedIn"
     id="share-link-linkedin"
@@ -1275,7 +1110,7 @@ Add the publication's **full text** or **supplementary notes** here. You can use
   <a
     target="_blank" rel="noopener"
     class="m-1 rounded-md bg-neutral-300 p-1.5 text-neutral-700 hover:bg-primary-500 hover:text-neutral-300 dark:bg-neutral-700 dark:text-neutral-300 dark:hover:bg-primary-400 dark:hover:text-neutral-800"
-    href="whatsapp://send?text=A&#43;theory&#43;of&#43;quasiballistic&#43;spin&#43;transport%20http%3A%2F%2Flocalhost%3A1313%2Fpublication%2Fpreprint%2F"
+    href="whatsapp://send?text=Quantum&#43;Foundations%3A&#43;No-Go&#43;Theorems&#43;of&#43;%CF%88-Ontological&#43;Quantum&#43;Models%20http%3A%2F%2Flocalhost%3A1313%2Fstatic%2Fuploads%2Fpsi_ontology.pdf"
     title="WhatsApp"
     aria-label="WhatsApp"
     id="share-link-whatsapp"
@@ -1297,7 +1132,6 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
   
   
-    
 
 
 
@@ -1383,31 +1217,47 @@ Add the publication's **full text** or **supplementary notes** here. You can use
 
 
 
+
+
+
+
+  
   
     
-
-
-
-
-  
     
-
-
-
-
-  
     
+      
+      
+    
+<div class="pt-1 no-prose w-full">
+  <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+  <div class="flex flex-col md:flex-row flex-nowrap justify-between gap-5 pt-2">
+    <div class="">
+      
+    </div>
+    <div class="">
+      
+        <a class="group flex text-right no-underline" href="/uploads/1d_mbqc_qudits.pdf">
+          <span class="flex flex-col">
+            <span
+              class="mt-[0.1rem] leading-6 group-hover:underline group-hover:decoration-primary-500"
+            >Universal Resource States for 1D Measurement-Based Quantum Computation</span
+            >
+            <span class="mt-[0.1rem] text-xs text-neutral-500 dark:text-neutral-400">
+              
+                May 6, 2022
+              
+            </span>
+          </span>
+          <span
+            class="mt-[-0.3rem] ms-2 text-neutral-700 transition-transform group-hover:-translate-x-[2px] group-hover:text-primary-600 dark:text-neutral dark:group-hover:text-primary-400"
+          ><span class="ltr:inline">&rarr;</span></span>
+        </a>
+      
+    </div>
+  </div>
+</div>
 
-
-
-
-  
-
-
-
-
-  
-  
 
 
   
