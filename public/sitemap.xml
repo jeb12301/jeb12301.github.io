@@ -10,19 +10,23 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/preprint/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication_types/article-journal/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication_types/</loc>
-    <lastmod>2025-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/vari_cool/</loc>
+    <lastmod>2025-10-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/quasiballistic/</loc>
     <lastmod>2025-03-20T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,12 +118,12 @@
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/psi-ontology/</loc>
+    <loc>http://localhost:1313/project/1d-mbqc-qudits/</loc>
     <lastmod>2022-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/project/1d-mbqc-qudits/</loc>
-    <lastmod>2022-05-06T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/project/psi-ontology/</loc>
+    <lastmod>2022-05-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
