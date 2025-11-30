@@ -309,7 +309,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-219568734&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-961728345&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -327,7 +327,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-219568734&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-961728345&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -956,7 +956,7 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Universal Resource States for 1D Measurement-Based Quantum Computation</title>
       <link>http://localhost:1313/project/1d-mbqc-qudits/</link>
-      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/1d-mbqc-qudits/</guid>
       <description></description>
     </item>
@@ -964,8 +964,16 @@ Parallel 4   :         des6, after des4, 1d
     <item>
       <title>Quantum Foundations: No-Go Theorems of ψ-Ontological Quantum Models</title>
       <link>http://localhost:1313/project/psi-ontology/</link>
-      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 May 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/psi-ontology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Applying Supervised Learning Models to Movie Review Rating Prediction</title>
+      <link>http://localhost:1313/project/it1244-ml/</link>
+      <pubDate>Thu, 05 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/it1244-ml/</guid>
       <description></description>
     </item>
     
