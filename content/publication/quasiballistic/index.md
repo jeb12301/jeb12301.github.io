@@ -5,7 +5,7 @@ authors:
 - Hyunsoo Ha
 - Wenwei Ho
 - Vir Bulchandani
-date: "2025-03-20T00:00:00Z"
+date: "2025-12-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -33,6 +33,8 @@ featured: true
 links:
 - name: arXiv
   url: https://arxiv.org/abs/2503.15756
+- name: PRB
+  url: https://doi.org/10.1103/khpy-d9s7
 # url_pdf: https://arxiv.org/abs/2503.15756
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: '#'

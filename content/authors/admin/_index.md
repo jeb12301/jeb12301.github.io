@@ -24,15 +24,15 @@ role: Undergraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Washington
+  - name: University of Cambridge
 #    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-#  - icon: at-symbol
-#    url: 'mailto:your-email@example.com'
-#    label: E-mail Me
+  - icon: at-symbol
+    url: 'mailto:js2997@cam.ac.uk'
+    label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
 #  - icon: brands/instagram
@@ -183,7 +183,7 @@ profiles:
 
 ## Biography
 
-I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete cv [here](uploads/resume.pdf).
+I am currently a Part III Maths student at the University of Cambridge. Previously, I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete cv [here](uploads/resume.pdf).
 
 
 <!--
