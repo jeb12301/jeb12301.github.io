@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jeb Song
+title: Jeffrey (Jeb) Song
 
 # Name pronunciation (optional)
 # name_pronunciation:
@@ -183,7 +183,7 @@ profiles:
 
 ## Biography
 
-I am currently a Part III Maths student at the University of Cambridge. Previously, I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete cv [here](uploads/resume.pdf).
+I am a Part III Maths student at the University of Cambridge. Previously, I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete CV [here](uploads/resume.pdf).
 
 
 <!--
