@@ -1,7 +1,7 @@
 ---
 title: "A theory of quasiballistic spin transport"
 authors:
-- admin
+- Jeffrey Song
 - Hyunsoo Ha
 - Wenwei Ho
 - Vir Bulchandani

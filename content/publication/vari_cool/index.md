@@ -1,7 +1,7 @@
 ---
 title: "Vari-Cool: a non-unitary quantum variational protocol for simulated cooling"
 authors:
-- admin
+- Jeffrey Song
 - Gilad Kishony
 - Erez Berg
 - Mark Rudner

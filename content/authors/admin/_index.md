@@ -6,7 +6,7 @@ title: Jeffrey (Jeb) Song
 # name_pronunciation:
 
 # Full name (for SEO)
-first_name: Jeb
+first_name: Jeffrey
 last_name: Song
 
 # Status emoji
@@ -17,7 +17,7 @@ last_name: Song
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: Part III Student
