@@ -20,18 +20,18 @@ superuser: true
 highlight_name: false
 
 # Role/position/tagline
-role: Part III Student
+role: First Year PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of Cambridge
+  - name: University of Edinburgh 
 #    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:js2997@cam.ac.uk'
+    url: 'mailto:J.Song-64@sms.ed.ac.uk'
     label: E-mail Me
 #  - icon: brands/x
 #    url: https://twitter.com/GetResearchDev
@@ -182,8 +182,7 @@ profiles:
 ---
 
 ## Biography
-
-I am a Part III Maths student at the University of Cambridge. Previously, I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. I am fascinated by the possibility that new discoveries of quantum advantage could radically reshape the foundations of physics and computer science, uncovering fundamental limits of what is knowable about our physical world. See a complete CV [here](uploads/resume.pdf).
+I am a first year PhD student in the Quantum Informatics CDT based at the University of Edinburgh. I recently graduated from the Part III Maths program at the University of Cambridge. Previously, I graduated from the University of Washington with degrees in physics and mathematics. I am primarily interested in the intersection between physics and computer science, especially in quantum information. Topics I am interested in include quantum learning theory, quantum complexity theory, and quantum algorithms. See a complete CV [here](uploads/resume.pdf).
 
 
 <!--
